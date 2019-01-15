@@ -13,3 +13,5 @@ This is a group of exercises to show the gradual progess made durring my first c
 4) Loops
 
 5) Classes
+
+## Notes
