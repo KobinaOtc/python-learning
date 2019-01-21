@@ -6,7 +6,7 @@
 import calendar
 
 # create a plain text calendar
-c = calendar.TextCalendar
+c = calendar.TextCalendar(calendar.Sunday)
 
 # create an HTML formatted calendar
 
