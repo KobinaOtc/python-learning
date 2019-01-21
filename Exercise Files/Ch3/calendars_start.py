@@ -3,10 +3,10 @@
 #
 
 # import the calendar module
-
+import calendar
 
 # create a plain text calendar
-
+c = calendar.TextCalendar
 
 # create an HTML formatted calendar
 
